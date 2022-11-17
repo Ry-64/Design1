@@ -1,0 +1,31 @@
+body {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-family: Pacifico, Arial, sans-serif;
+  font-size: 14px;
+  background-color: grey;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.centerbody {
+  background-color: white;
+  margin: 20px;
+  padding: 50px;
+  padding-bottom: 75%;
+  box-shadow: 5px 2px #40464a;
+}
