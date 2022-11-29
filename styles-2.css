@@ -29,3 +29,14 @@ h2 {
   padding-bottom: 75%;
   box-shadow: 5px 2px #40464a;
 }
+
+.imageoverlay {
+  position:fixed;
+  bottom:-20px;
+  z-index:1;
+  width:100%;
+}
+
+.imageoverlay img {
+
+}
